@@ -1,0 +1,11 @@
+TOTAL Code Design (worth 35%): 36.5/40
+TOTAL PlayerRandom (worth 10%): 9.75/10
+TOTAL Controller Fuc. (worth 5%): 5/5
+TOTAL Unittest (worth 45%): 7/14
+TOTAL Git (worth 5%): 15/15
+TOTAL A1 MARK: 74.19/100
+
+If you feel there was an error in the marking of an assignment, you may request a remark using this form: https://forms.gle/t4XQhtK27bfpZjhNA. 
+You must give a specific reason for the request, referring to a possible error or omission by the marker. 
+Please keep in mind that your grade may stay the same, may increase, or may even decrease, after your remark request is assessed.
+For prompt turnaround, remark requests must be received within one week of when your received the grade for that item

@@ -1,0 +1,17 @@
+testSetGetToken: 0/1
+testGetDimension: 1/1
+testConstructStyles: 1/1
+testExchangeStyle: 0/1
+testMovementDragon: 0/1
+testMovementCrab: 0/1
+testMovementHorse: 0/1
+testMovementMantis: 0/1
+testMovementRooster: 0/1
+testOtherPlayer: 1/1
+testIsLegalMove: 1/1
+testGetWinner: 1/1
+testAll: 1/1
+testDifferentDimension: 1/1
+TOTAL: 7/14
+
+Note: To find the description of each test case click here: https://piazza.com/class/kjbjwnmx23xp5?cid=774
